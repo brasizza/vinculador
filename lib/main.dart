@@ -1,1 +1,1 @@
-export 'app/modules/vinculacao/view/vinculacao_view.dart';
+export 'app/app_widget.dart';
