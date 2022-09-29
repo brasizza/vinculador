@@ -1,0 +1,61 @@
+{
+
+    "modulos":{
+        "tutorial" : {
+
+            "titulo_dialog" : "Fechar tutorial",
+            "mensagem_dialog" : "Deseja realmente encerrar o tutorial?"
+        },
+
+        "carga" : {
+
+            "efetuando_carga" : "Iniciando carga!",
+            "cargas_totais" : "Existem @cargas para serem efetuadas",
+            "label_carga" : "Carga",
+            "label_progresso" : "em progresso",
+            "carga_contador" : "Carga @cargaAtual de @cargaTotal"
+        },
+        "vinculacao" : {
+
+            "mensagem_inicial" : "Pronto! Agora basta entrar na sua retaguarda! ",
+            "passo1" : "Vá em EMPRESA > EQUIPAMENTOS ",
+            "passo2" : "Clique no botão 📢  e digite o código abaixo:",
+            "gerar_numero" : "Gerar outro número",
+            "mac" : "Equipamento"
+
+
+        },
+        "login": {
+            "lembrar_login" : "Manter logado",
+            "label_login" : "Faça o login!",
+            "vincular_dispositivo" : "Aguarde!\nVinculando seu aparelho ao sistema...",
+            "efetuar_login" : "Fazendo o login no sistema",
+            "login_invalido" : "OPS! Login inálido, tente novamente!"
+           
+        }
+
+    },
+    
+    "moeda": "R$",
+    "btn_sim": "Sim",
+    "btn_nao": "Não",
+    "btn_confirmar": "Confirmar",
+    "btn_entrar": "Entrar",
+    "btn_adicionar": "Adicionar",
+    "btn_fechar": "Fechar",
+    "btn_cancelar": "Cancelar",
+    "btn_aceitar": "Aceitar",
+    "btn_negar": "Negar",
+    "btn_ok": "OK",
+    "btn_selecionar": "Selecionar",
+    "carregando": "Aguarde...",
+    "procurando_empresa": "Procurando empresa...",
+    "sem_resultado" : "Sem resultado",
+    "operacao_n_permitida" : "Operação não permitida",
+    "desistir": "Desistir",
+    "habilitar_notificacao" : "Habilitar notificações",
+    "btn_copiar": "Copiar",
+    "label_ou" : "ou",
+    "label_usuario" : "Usuário",
+    "label_senha" : "Senha"
+}
